@@ -1,0 +1,7 @@
+.div-itemcontainer{
+    display: flex;
+    align-items: center;
+    place-items: center;
+    font-size: 10px;
+
+}
